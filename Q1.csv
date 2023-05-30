@@ -1,0 +1,135 @@
+State,City,Population,rank
+Alabama,Birmingham,212113,1
+Alabama,Montgomery,201332,2
+Alabama,Mobile,194899,3
+Arizona,Phoenix,1513367,1
+Arizona,Tucson,526116,2
+Arizona,Mesa,457587,3
+Arkansas,Little Rock,197357,1
+Arkansas,Fort Smith,87650,2
+Arkansas,Fayetteville,78960,3
+California,Los Angeles,3884307,1
+California,San Diego,1355896,2
+California,San Jose,998537,3
+Colorado,Denver,649495,1
+Colorado,Colorado Springs,439886,2
+Colorado,Aurora,345803,3
+Connecticut,Bridgeport,147216,1
+Connecticut,New Haven,130660,2
+Connecticut,Stamford,126456,3
+Delaware,Wilmington,71525,1
+Delaware,Dover,37366,2
+Florida,Jacksonville,842583,1
+Florida,Miami,417650,2
+Florida,Tampa,352957,3
+Georgia,Atlanta,447841,1
+Georgia,Columbus,202824,2
+Georgia,Augusta-Richmond County,197350,3
+Idaho,Boise City,214237,1
+Idaho,Nampa,86518,2
+Idaho,Meridian,83596,3
+Illinois,Chicago,2718782,1
+Illinois,Aurora,199963,2
+Illinois,Rockford,150251,3
+Indiana,Indianapolis,843393,1
+Indiana,Fort Wayne,256496,2
+Indiana,Evansville,120310,3
+Iowa,Des Moines,207510,1
+Iowa,Cedar Rapids,128429,2
+Iowa,Davenport,102157,3
+Kansas,Wichita,386552,1
+Kansas,Overland Park,181260,2
+Kansas,Kansas City,148483,3
+Kentucky,Louisville,609893,1
+Kentucky,Lexington-Fayette,308428,2
+Kentucky,Bowling Green,61488,3
+Louisiana,New Orleans,378715,1
+Louisiana,Baton Rouge,229426,2
+Louisiana,Shreveport,200327,3
+Maryland,Baltimore,622104,1
+Maryland,Frederick,66893,2
+Maryland,Gaithersburg,65690,3
+Massachusetts,Boston,645966,1
+Massachusetts,Worcester,182544,2
+Massachusetts,Springfield,153703,3
+Michigan,Detroit,688701,1
+Michigan,Grand Rapids,192294,2
+Michigan,Warren,134873,3
+Minnesota,Minneapolis,400070,1
+Minnesota,St. Paul,294873,2
+Minnesota,Rochester,110742,3
+Mississippi,Jackson,172638,1
+Mississippi,Gulfport,71012,2
+Mississippi,Southaven,50997,3
+Missouri,Kansas City,467007,1
+Missouri,St. Louis,318416,2
+Missouri,Springfield,164122,3
+Montana,Billings,109059,1
+Montana,Missoula,69122,2
+Montana,Great Falls,59351,3
+Nebraska,Omaha,434353,1
+Nebraska,Lincoln,268738,2
+Nebraska,Bellevue,53663,3
+Nevada,Las Vegas,603488,1
+Nevada,Henderson,270811,2
+Nevada,Reno,233294,3
+New Hampshire,Manchester,110378,1
+New Hampshire,Nashua,87137,2
+New Hampshire,Concord,42419,3
+New Jersey,Newark,278427,1
+New Jersey,Jersey City,257342,2
+New Jersey,Paterson,145948,3
+New Mexico,Albuquerque,556495,1
+New Mexico,Las Cruces,101324,2
+New Mexico,Rio Rancho,91956,3
+New York,New York,8405837,1
+New York,Buffalo,258959,2
+New York,Rochester,210358,3
+North Carolina,Charlotte,792862,1
+North Carolina,Raleigh,431746,2
+North Carolina,Greensboro,279639,3
+North Dakota,Fargo,113658,1
+North Dakota,Bismarck,67034,2
+North Dakota,Grand Forks,54932,3
+Ohio,Columbus,822553,1
+Ohio,Cleveland,390113,2
+Ohio,Cincinnati,297517,3
+Oklahoma,Oklahoma City,610613,1
+Oklahoma,Tulsa,398121,2
+Oklahoma,Norman,118197,3
+Oregon,Portland,609456,1
+Oregon,Salem,160614,2
+Oregon,Eugene,159190,3
+Pennsylvania,Philadelphia,1553165,1
+Pennsylvania,Pittsburgh,305841,2
+Pennsylvania,Allentown,118577,3
+Rhode Island,Providence,177994,1
+Rhode Island,Warwick,81971,2
+Rhode Island,Cranston,80566,3
+South Carolina,Columbia,133358,1
+South Carolina,Charleston,127999,2
+South Carolina,North Charleston,104054,3
+South Dakota,Sioux Falls,164676,1
+South Dakota,Rapid City,70812,2
+Tennessee,Memphis,653450,1
+Tennessee,Nashville,634464,2
+Tennessee,Knoxville,183270,3
+Texas,Houston,2195914,1
+Texas,San Antonio,1409019,2
+Texas,Dallas,1257676,3
+Utah,Salt Lake City,191180,1
+Utah,West Valley City,133579,2
+Utah,Provo,116288,3
+Virginia,Virginia Beach,448479,1
+Virginia,Norfolk,246139,2
+Virginia,Chesapeake,230571,3
+Washington,Seattle,652405,1
+Washington,Spokane,210721,2
+Washington,Tacoma,203446,3
+West Virginia,Charleston,50821,1
+West Virginia,Huntington,49177,2
+Wisconsin,Milwaukee,599164,1
+Wisconsin,Madison,243344,2
+Wisconsin,Green Bay,104779,3
+Wyoming,Cheyenne,62448,1
+Wyoming,Casper,59628,2
